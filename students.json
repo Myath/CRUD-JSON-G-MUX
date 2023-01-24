@@ -1,0 +1,52 @@
+{
+ 	"students": [
+ 		{
+ 			"id": 1,
+ 			"name": "Jayme Bradley",
+ 			"email": "qoraw@mailinator.com",
+ 			"roll": 60,
+ 			"english": 60,
+ 			"bangla": 79,
+ 			"mathematics": 59,
+ 			"grade": "A-",
+ 			"gpa": 3.5,
+ 			"NameError": ""
+ 		},
+ 		{
+ 			"id": 2,
+ 			"name": "Morgan Lott",
+ 			"email": "ruvynira@mailinator.com",
+ 			"roll": 58,
+ 			"english": 72,
+ 			"bangla": 40,
+ 			"mathematics": 83,
+ 			"grade": "A-",
+ 			"gpa": 3.67,
+ 			"NameError": ""
+ 		},
+ 		{
+ 			"id": 7,
+ 			"name": "Henry Weber",
+ 			"email": "binemy@mailinator.com",
+ 			"roll": 61,
+ 			"english": 80,
+ 			"bangla": 100,
+ 			"mathematics": 86,
+ 			"grade": "A+",
+ 			"gpa": 5,
+ 			"NameError": ""
+ 		},
+ 		{
+ 			"id": 9,
+ 			"name": "Aurelia Moreno",
+ 			"email": "cicuruxul@mailinator.com",
+ 			"roll": 36,
+ 			"english": 74,
+ 			"bangla": 39,
+ 			"mathematics": 72,
+ 			"grade": "B",
+ 			"gpa": 3,
+ 			"NameError": ""
+ 		}
+ 	]
+ }
